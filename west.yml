@@ -39,6 +39,6 @@ manifest:
 
     - name: zephyr
       west-commands: scripts/west-commands.yml
-      revision: main
+      revision: 3.1.0
   self:
     path: pinetime
